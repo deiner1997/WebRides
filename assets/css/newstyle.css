@@ -1,0 +1,29 @@
+#mesage{
+	margin-top: 10px;	
+	font-size: 15px;
+	color: red;
+}
+#mesag{
+	margin-top: 10px;	
+	font-size: 15px;
+}
+.a{
+	text-decoration: none;
+	background-color: #cbe2f2;
+	border: none;
+}
+.juntar{
+	display: flex;
+	justify-content: flex-end;
+}
+#trans{
+visibility: hidden
+}
+#start{
+	background-color: white;
+	color: black;
+}
+#end{
+background-color: white;
+	color: black;	
+}
